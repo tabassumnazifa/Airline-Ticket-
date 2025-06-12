@@ -31,3 +31,11 @@ Displays confirmation message and ticket details after successful booking.
 - Inheritance and basic OOP principle
 
 Here's some output screenshot for better understanding:
+
+### Basic Info:
+
+![image alt](https://github.com/tabassumnazifa/Airline-Ticket-/blob/main/info.png?raw=true)
+
+### Payment system:
+
+![image alt](https://github.com/tabassumnazifa/Airline-Ticket-/blob/main/pay.png?raw=true)
